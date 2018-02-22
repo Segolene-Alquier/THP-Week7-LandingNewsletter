@@ -11,8 +11,6 @@ gem 'turbolinks',   '5.0.1'
 gem 'jbuilder',     '2.7.0'
 gem 'sprockets', '3.7.1'
 
-gem 'therubyracer'
-gem 'less-rails-bootstrap'
 gem "font-awesome-rails"
 gem 'jquery-easing-rails'
 gem 'autoprefixer-rails'
