@@ -1,0 +1,9 @@
+
+<h2>Recevez nos infos!</h2>
+<p>Vous recevrez notre lettre d'info toute les deux semaines et pourrez vous désabonner à tout moment. Vos données ne seront en aucun cas communiquées à des tiers.</p>
+
+<%= form_tag("/", method: "post") do %>
+	<%= text_field_tag "name", nil, placeholder: "votre nom", class:"placeholder" %></br>
+	<%= email_field_tag "email", nil, placeholder: "votre email", class:"placeholder" %></br></br>
+	<%= submit_tag nil, class: "btn btn-primary btn-xl js-scroll-trigger" %></br></br>
+<% end %></br>
