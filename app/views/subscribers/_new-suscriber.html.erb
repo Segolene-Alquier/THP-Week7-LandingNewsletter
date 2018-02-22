@@ -1,9 +1,17 @@
+<section id="mailing">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <h2 class="section-heading">Recevez nos infos!</h2>
+                <p>Vous recevrez notre lettre d'info toute les deux semaines et pourrez vous désabonner à tout moment. Vos données ne seront en aucun cas communiquées à des tiers.</p>
 
-<h2>Recevez nos infos!</h2>
-<p>Vous recevrez notre lettre d'info toute les deux semaines et pourrez vous désabonner à tout moment. Vos données ne seront en aucun cas communiquées à des tiers.</p>
+				<%= form_tag("/", method: "post") do %>
+					<%= text_field_tag "name", nil, placeholder: "votre nom", class:"textform" %></br>
+					<%= email_field_tag "email", nil, placeholder: "votre email" %></br></br>
+					<%= submit_tag nil, class: "btn btn-primary btn-xl js-scroll-trigger" %></br>
+				<% end %>
 
-<%= form_tag("/", method: "post") do %>
-	<%= text_field_tag "name", nil, placeholder: "votre nom", class:"placeholder" %></br>
-	<%= email_field_tag "email", nil, placeholder: "votre email", class:"placeholder" %></br></br>
-	<%= submit_tag nil, class: "btn btn-primary btn-xl js-scroll-trigger" %></br></br>
-<% end %></br>
+            </div>
+        </div>
+    </div>
+</section>
