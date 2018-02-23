@@ -137,6 +137,12 @@ Pour l'instant, on en est là :
 
 ![GGA](https://image.noelshack.com/fichiers/2018/08/5/1519374239-capture-d-ecran-2018-02-23-a-09-22-51.png)
 
+#### Les résultats :
+- 21 inscrits sur notre liste mailchimp
+- 37 vues de la page
+- les posts facebook ont le mieux marché : sur 30 clics, 18 provenant des posts fb
+- peu de réponses sur twitter
+
 ## Les pistes d'amélioration
 
 ### Partie metrics
