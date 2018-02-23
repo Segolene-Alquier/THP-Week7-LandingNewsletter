@@ -29,7 +29,7 @@ On a fait au plus simple : modification du contenu et des images
 #### Configuration mailchimp
 - On a créé un compte mailchimp
 - On a récupéré la clé API et on la insérée dans un fichier .env
-- On a récupéré la version 'naked', sans styling, pour l'adapter à notre propre thème bootstrap
+- On a récupéré la **version 'naked'**, sans styling, pour l'adapter à notre propre thème bootstrap
 - On a testé en enlevant des divs par-ci par-là qui étaient obsolètes (sauf la dernière, important !)
 - On l'a intégré dans les views puis on a mis les class bootstrap pour le pimper
 - TADAAAA 💌
@@ -43,15 +43,14 @@ Visible lorsque l'on scrolle, il comporte des liens vers des pages de www.thehac
 - Le **Call To Action** est visible dès l'arrivée sur la page : le formulaire l'inscription à la newsletter.
 - On a choisi de mettre le **moins de texte possible** dans le header pour ne pas perdre l'attention du visiteur, et de mettre les **mots-clés** :
 	* 3 mois, gratuit, développeur web, n'importe où
-- On a mis une photo de 👶parce que :
+- On a mis une photo de 👶 parce que :
 	* ça nous faisait marrer
 	* tout le monde aime les bébés
-	* ça nous semblait pas tant HS
 #### Une description de la formation
 On insiste sur le fait que la formation soit :
-- gratuite
-- concrète et pratique
-- collaborative
+- **gratuite**
+- **concrète et pratique**
+- **collaborative**
 #### Des témoignages pour inspirer confiance
 On a repris ceux du site THP, c'est toujours pas mal d'avoir des bonnes têtes qui inspirent confiance.
 #### Le CTA pour la newsletter
@@ -62,21 +61,22 @@ Simple. Basique.
 ## L'acquisition
 ### La cible
 On a ciblé en priorité :
-- les étudiants / jeunes diplômés
-- les entrepreneurs
+- les **étudiants / jeunes diplômés** 🎓 : qui flippent un peu de pas avoir de compétences 'concrètes' pour trouver un taff et qui sont curieux de découvrir le code
+- les **entrepreneurs** 👔 : qui aimeraient être plus indépendants pour créer leur MVP
 
 ### Les canaux d'acquisition
 
 **Via facebook** :
-- on s'est infiltré dans une dizaine de groupes d'étudiants de grandes villes françaises et on a posté le message suivant
+- on s'est infiltré dans une **dizaine de groupes d'étudiants de grandes villes françaises** et on a posté le message suivant
 > Hello à tous, diplômée depuis un an d'une école de commerce, je suis en train d'apprendre à coder et voulais partager le bon plan avec vous ! 💻
 Si t'as l'impression de pas avoir de compétences concrètes pour trouver un taff et tu aimerais rapidement avoir les bases du développement web, mais pas d'argent à dépenser... Regarde The Hacking Project. J'apprends à coder depuis 2 mois gratuitement là-bas, et c'est 👍.
 C'est à moitié en ligne / en présentiel et vous pouvez le faire de n'importe où !
 Si vous voulez plus d'infos 👉 http://bit.ly/THP75
 C'est vraiment une top formation, et plus on sera de fous, mieux ça sera ! 🎈
+- l'idée c'était de le faire avec un vrai compte, comme un témoignage, pour que les étudiants se reconnaissent dans le message
 
 **Via twitter** :
-- on a recyclé notre bon vieux bot twitter des familles :
+- on a recyclé notre bon vieux **bot twitter** des familles :
 	* il va chercher 50 tweets qui contiennent le #denotrechoix
 	* Il poste 2 messages différents
 	* il ne peut pas rerépondre à un tweet
@@ -88,6 +88,7 @@ GRATUIT 🎉
 sur 3 MOIS 📅
 accessible DE N'IMPORTE OÙ 🏝!
 Plus d'infos 👉 http://bit.ly/THP75
+- on a visé les étudiants et entrepreneurs avec des mots-clés type : 'learntocode', 'CTO', 'lewagonparis', 'rubyonrails'...
 
 ### Les metrics
 #### Le set-up
