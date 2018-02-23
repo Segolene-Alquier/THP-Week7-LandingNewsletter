@@ -36,13 +36,6 @@ On a fait au plus simple : modification du contenu et des images
 
 ![list mailchimp](https://image.noelshack.com/fichiers/2018/08/5/1519374232-capture-d-ecran-2018-02-22-20-13-23.png)
 
-https://image.noelshack.com/fichiers/2018/08/5/1519374238-capture-d-ecran-2018-02-23-a-09-22-11.png
-https://image.noelshack.com/fichiers/2018/08/5/1519374239-capture-d-ecran-2018-02-23-a-09-22-18.png
-https://image.noelshack.com/fichiers/2018/08/5/1519374239-capture-d-ecran-2018-02-23-a-09-22-24.png
-https://image.noelshack.com/fichiers/2018/08/5/1519374239-capture-d-ecran-2018-02-23-a-09-22-51.png
-
-
-
 ### La structure de la page
 #### Le navigateur
 Visible lorsque l'on scrolle, il comporte des liens vers des pages de www.thehackingproject.org
@@ -120,13 +113,29 @@ gtag('config', 'UA-XXXXXXXX-X', {'page_path': window.location.pathname});
 ```
 Et voilàààààààà 🎈
 
+> Autre option du pauvre: Bitly, qui est un url shortener
+Ça permet de voir le nombre de personnes ayant cliqué dessus et d'où ils viennent
+
+![bitly1](https://image.noelshack.com/fichiers/2018/08/5/1519374238-capture-d-ecran-2018-02-23-a-09-22-11.png)
+![bitly2](https://image.noelshack.com/fichiers/2018/08/5/1519374239-capture-d-ecran-2018-02-23-a-09-22-18.png)
+
 #### Les données exploitables
-Dans l'hypothèse où on aurait eu beaucoup de trafic, les données les plus pertinentes seraient :
-- le taux de rebond
-- le taux de clic
-- les liens cliqués
+Dans l'hypothèse où on aurait eu beaucoup de trafic et surtout du temps pour avoir du recul, les données les plus pertinentes seraient :
+- le taux de rebond : le nombre de personnes qui se tirent direct de la page sans cliquer nulle part
+> le but du jeu est de le réduire pour avoir une landing efficace
+- le taux de clic : combien de personnes cliquent quelque part
+> le but du jeu est de comprendre ce qui attire l'oeil des visiteur, aussi bien en termes de wording que d'emplacement
+- les liens cliqués : les liens en questions
+> le but du jeu est de comprendre ce qui attire l'oeil des visiteur, aussi bien en termes de wording que d'emplacement
 - le temps passé sur la page
+> le but du jeu est de l'augmenter à maaaaax
 - le taux de conversion : défini par un objectif qui est l'url de validation du formulaire d'inscription à la newsletter
+> permet de facilement voir combien de personnes se sont inscrites sur tous les visiteurs, car c'est notre PROJEEEET
+
+Pour l'instant, on en est là :
+
+![GGA1](https://image.noelshack.com/fichiers/2018/08/5/1519374239-capture-d-ecran-2018-02-23-a-09-22-24.png)
+![GGA2](https://image.noelshack.com/fichiers/2018/08/5/1519374239-capture-d-ecran-2018-02-23-a-09-22-51.png)
 
 ## Les pistes d'amélioration
 
