@@ -34,6 +34,15 @@ On a fait au plus simple : modification du contenu et des images
 - On l'a intégré dans les views puis on a mis les class bootstrap pour le pimper
 - TADAAAA 💌
 
+![list mailchimp](https://image.noelshack.com/fichiers/2018/08/5/1519374232-capture-d-ecran-2018-02-22-20-13-23.png)
+
+https://image.noelshack.com/fichiers/2018/08/5/1519374238-capture-d-ecran-2018-02-23-a-09-22-11.png
+https://image.noelshack.com/fichiers/2018/08/5/1519374239-capture-d-ecran-2018-02-23-a-09-22-18.png
+https://image.noelshack.com/fichiers/2018/08/5/1519374239-capture-d-ecran-2018-02-23-a-09-22-24.png
+https://image.noelshack.com/fichiers/2018/08/5/1519374239-capture-d-ecran-2018-02-23-a-09-22-51.png
+
+
+
 ### La structure de la page
 #### Le navigateur
 Visible lorsque l'on scrolle, il comporte des liens vers des pages de www.thehackingproject.org
