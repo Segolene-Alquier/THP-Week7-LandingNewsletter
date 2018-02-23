@@ -122,15 +122,15 @@ Et voilàààààààà 🎈
 
 #### Les données exploitables
 Dans l'hypothèse où on aurait eu beaucoup de trafic et surtout du temps pour avoir du recul, les données les plus pertinentes seraient :
-- le taux de rebond : le nombre de personnes qui se tirent direct de la page sans cliquer nulle part
+- le **taux de rebond** : le nombre de personnes qui se tirent direct de la page sans cliquer nulle part
 > le but du jeu est de le réduire pour avoir une landing efficace
-- le taux de clic : combien de personnes cliquent quelque part
+- le **taux de clic** : combien de personnes cliquent quelque part
 > le but du jeu est de comprendre ce qui attire l'oeil des visiteur, aussi bien en termes de wording que d'emplacement
-- les liens cliqués : les liens en questions
+- les **liens cliqués** : les liens en questions
 > le but du jeu est de comprendre ce qui attire l'oeil des visiteur, aussi bien en termes de wording que d'emplacement
-- le temps passé sur la page
+- le **temps passé sur la page**
 > le but du jeu est de l'augmenter à maaaaax
-- le taux de conversion : défini par un objectif qui est l'url de validation du formulaire d'inscription à la newsletter
+- le **taux de conversion** : défini par un objectif qui est l'url de validation du formulaire d'inscription à la newsletter
 > permet de facilement voir combien de personnes se sont inscrites sur tous les visiteurs, car c'est notre PROJEEEET
 
 Pour l'instant, on en est là :
@@ -141,21 +141,22 @@ Pour l'instant, on en est là :
 
 ### Partie metrics
 
-- Ajouter d'autres landing pages afin de voir via Google analytics quels messages génèrent plus de conversion, et adapter la communication en fonction (ex : si une landing page avec l'argument "vous augmentez votre votre salaire" fonctionne particulièrement bien dans un groupe Facebook d'anciens diplômés, on aurait envoyé son lien à tous les groupes d'alumnis
+- **Ajouter d'autres landing pages** afin de voir via Google analytics quels messages génèrent plus de conversion, et adapter la communication en fonction (ex : si une landing page avec l'argument "vous augmentez votre votre salaire" fonctionne particulièrement bien dans un groupe Facebook d'anciens diplômés, on aurait envoyé son lien à tous les groupes d'alumnis
 
 ### Partie acquisition
 
-- faire un bot Messenger qui aurait adressé des messages dans beaucoup plus de groupes Facebook
+- faire un **bot Messenger** qui aurait adressé des messages dans beaucoup plus de groupes Facebook
 
-- tester le scrapping d'emails depuis des sites d'anciens élèves, d'établissements d'enseignement, à utiliser avec la gem Gmail
+- tester le **scrapping d'emails depuis des sites d'anciens élèves, d'établissements d'enseignement**, à utiliser avec la gem Gmail
 
-- utiliser l'API Instagram qui rediffuse les photos du channel Slack #photos pour montrer à quel point THP est plein de gens créatifs
+- utiliser **l'API Instagram qui rediffuse les photos du channel Slack #photos** pour montrer à quel point THP est plein de gens créatifs
 
 ### Partie landing
 
-- améliorer l'ergonomie : fait un flash lorsque quelqu'un rentre son email et redirection sur une cool page
+- **améliorer l'ergonomie** : fait un flash lorsque quelqu'un rentre son email et redirection sur une cool page
 
 - faire un background avec des images de computer-kid, computer-grandma et computer-lolcat qui défilent
 
 - intégrer le flux live Twitter de Félix
-- intégrer un chatbot sur le site qui répond aux demandes avec le même message : "cool, et maintenant inscris-toi à la newsletter"
+
+- intégrer un **chatbot sur le site** qui répond aux demandes avec le même message : "cool, et maintenant inscris-toi à la newsletter"
