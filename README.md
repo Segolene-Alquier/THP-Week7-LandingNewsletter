@@ -24,7 +24,8 @@ On a supprimé les parties dont on avait pas besoin et créé un partial supplé
 On l'a ajouté dans le header puis plus bas dans la home page
 
 #### Modification du CSS
-On a fait au plus simple : modification du contenu et des images
+- On a fait au plus simple : modification du contenu et des images
+- On a essayé de rester au plus proche de la **charte graphique THP**, pour que la navigation soit fluide pour les visiteurs qui cliquaient sur les liens de renvoi
 
 #### Configuration mailchimp
 - On a créé un compte mailchimp
