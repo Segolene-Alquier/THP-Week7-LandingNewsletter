@@ -90,6 +90,7 @@ sur 3 MOIS 📅
 accessible DE N'IMPORTE OÙ 🏝!
 Plus d'infos 👉 http://bit.ly/THP75
 - on a visé les étudiants et entrepreneurs avec des mots-clés type : 'learntocode', 'CTO', 'lewagonparis', 'rubyonrails'...
+- le compte : https://twitter.com/francois_thp
 
 ### Les metrics
 #### Le set-up
