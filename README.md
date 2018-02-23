@@ -116,8 +116,8 @@ Et voilàààààààà 🎈
 > Autre option du pauvre: Bitly, qui est un url shortener
 Ça permet de voir le nombre de personnes ayant cliqué dessus et d'où ils viennent
 
-![bitly1](https://image.noelshack.com/fichiers/2018/08/5/1519374238-capture-d-ecran-2018-02-23-a-09-22-11.png)
-![bitly2](https://image.noelshack.com/fichiers/2018/08/5/1519374239-capture-d-ecran-2018-02-23-a-09-22-18.png)
+![bitly1](https://image.noelshack.com/fichiers/2018/08/5/1519374239-capture-d-ecran-2018-02-23-a-09-22-18.png)
+![bitly2](https://image.noelshack.com/fichiers/2018/08/5/1519374239-capture-d-ecran-2018-02-23-a-09-22-24.png)
 
 #### Les données exploitables
 Dans l'hypothèse où on aurait eu beaucoup de trafic et surtout du temps pour avoir du recul, les données les plus pertinentes seraient :
@@ -134,8 +134,7 @@ Dans l'hypothèse où on aurait eu beaucoup de trafic et surtout du temps pour a
 
 Pour l'instant, on en est là :
 
-![GGA1](https://image.noelshack.com/fichiers/2018/08/5/1519374239-capture-d-ecran-2018-02-23-a-09-22-24.png)
-![GGA2](https://image.noelshack.com/fichiers/2018/08/5/1519374239-capture-d-ecran-2018-02-23-a-09-22-51.png)
+![GGA](https://image.noelshack.com/fichiers/2018/08/5/1519374239-capture-d-ecran-2018-02-23-a-09-22-51.png)
 
 ## Les pistes d'amélioration
 
