@@ -8,10 +8,8 @@
 
 ## La création de la landing page
 ### Choix du design
-On s'est pas cassé la tête, on a cherché un template bootstrap de landing page gratos, et on a téléchargé celui-ci qui nous convenait bien :
+Template bootstrap de landing page :
 https://startbootstrap.com/template-overviews/creative/
-
-On a choisi cette landing parce qu'elle était plutôt épurée et donnait la possibilité d'intégrer des témoignages de corsaire facilement (et gratuite, je l'ai déjà dit 😬 ?).
 
 ### Comment on l'a codé
 #### Configuration bootstrap
