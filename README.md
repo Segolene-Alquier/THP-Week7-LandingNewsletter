@@ -1,4 +1,11 @@
 # Landing page pour inscription
+
+[1](https://nsa39.casimages.com/img/2018/08/05/18080507512340110.png)
+[2](https://nsa39.casimages.com/img/2018/08/05/180805075122780568.png)
+[3](https://nsa39.casimages.com/img/2018/08/05/180805075123450163.png)
+[4](https://nsa39.casimages.com/img/2018/08/05/180805075123720776.png)
+
+
 ## La création de la landing page
 ### Choix du design
 On s'est pas cassé la tête, on a cherché un template bootstrap de landing page gratos, et on a téléchargé celui-ci qui nous convenait bien :
