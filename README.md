@@ -1,6 +1,6 @@
 # Landing page pour inscription
 
-![1](https://nsa39.casimages.com/img/2018/08/05/18080507512340110.png)
+![1](https://nsa39.casimages.com/img/2018/08/05/18080507580022330.png)
 ![2](https://nsa39.casimages.com/img/2018/08/05/180805075122780568.png)
 ![3](https://nsa39.casimages.com/img/2018/08/05/180805075123450163.png)
 ![4](https://nsa39.casimages.com/img/2018/08/05/180805075123720776.png)
